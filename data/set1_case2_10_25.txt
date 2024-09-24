@@ -1,0 +1,94 @@
+Route1: 	3[ 5 , 5 ] - 2[ 5 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route2: 	5[ 5 , 5 ] - 4[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route3: 	9[ 5 , 5 ] - 8[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route4: 	7[ 5 , 5 ] - 6[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route5: 	11[ 5 , 2.5 ] - 10[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route6: 	16[ 5 , 0 ] - 17[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route7: 	16[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route8: 	1[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route9: 	2[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route10: 	3[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route11: 	4[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route12: 	5[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route13: 	6[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route14: 	1[ 5 , 5 ] - DEPOT
+Maxload: 5	Capacity: 10
+
+Route15: 	15[ 5 , 5 ] - 14[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route16: 	12[ 5 , 5 ] - 13[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route17: 	7[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route18: 	8[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route19: 	9[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route20: 	10[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route21: 	11[ 10 , 2.5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route22: 	12[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route23: 	13[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route24: 	14[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route25: 	15[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route26: 	19[ 5 , 5 ] - 18[ 5 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route27: 	17[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route28: 	18[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route29: 	19[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+POPULATION: 
+1: 1196 29 0.001
+2: 1191 29 0.003
+3: 1183 29 0.005
+4: 1194 29 0.002
+
+Mycost: 1183	Benchmark: 1183

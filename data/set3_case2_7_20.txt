@@ -1,0 +1,147 @@
+Route1: 	17[ 4 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route2: 	12[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route3: 	15[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route4: 	18[ 0 , 2 ] - 19[ 0 , 3 ] - 11[ 0 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route5: 	4[ 8 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route6: 	2[ 6 , 6 ] - 1[ 0 , 4 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route7: 	10[ 0 , 4 ] - 12[ 6 , 6 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route8: 	14[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route9: 	13[ 8 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route10: 	12[ 4 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route11: 	9[ 2 , 3 ] - 13[ 0 , 7 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route12: 	16[ 2 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route13: 	17[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route14: 	16[ 8 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route15: 	16[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route16: 	15[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route17: 	15[ 0 , 9 ] - 17[ 0 , 1 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route18: 	13[ 2 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route19: 	18[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route20: 	11[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route21: 	8[ 8 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route22: 	8[ 2 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route23: 	4[ 2 , 8 ] - DEPOT
+Maxload: 8	Capacity: 10
+
+Route24: 	18[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route25: 	19[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route26: 	19[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route27: 	17[ 6 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route28: 	11[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route29: 	1[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route30: 	5[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route31: 	3[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route32: 	10[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route33: 	14[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route34: 	19[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route35: 	18[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route36: 	7[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route37: 	2[ 4 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route38: 	6[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route39: 	5[ 0 , 9 ] - 7[ 0 , 1 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route40: 	8[ 0 , 2 ] - 14[ 0 , 8 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route41: 	3[ 0 , 7 ] - 1[ 0 , 1 ] - DEPOT
+Maxload: 8	Capacity: 10
+
+Route42: 	6[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route43: 	7[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route44: 	9[ 8 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route45: 	9[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route46: 	10[ 0 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+POPULATION: 
+1: 1965 46 3.04
+2: 1961 46 7.922
+3: 1969 46 2.278
+4: 1981 46 0.039
+5: 1971 46 0.801
+6: 1966 46 2.764
+
+Mycost: 1961	Benchmark: 1989

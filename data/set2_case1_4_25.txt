@@ -1,0 +1,119 @@
+Route1: 	12[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route2: 	12[ 1 , 0 ] - 10[ 9 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route3: 	11[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route4: 	14[ 3 , 0 ] - 16[ 5 , 5 ] - DEPOT
+Maxload: 8	Capacity: 10
+
+Route5: 	18[ 9.5 , 5 ] - DEPOT
+Maxload: 9.5	Capacity: 10
+
+Route6: 	7[ 6 , 5 ] - 5[ 4 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route7: 	13[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route8: 	4[ 3 , 0 ] - 2[ 1 , 0 ] - 17[ 6 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route9: 	19[ 8 , 0 ] - DEPOT
+Maxload: 8	Capacity: 10
+
+Route10: 	3[ 2.5 , 2.5 ] - 18[ 7.5 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route11: 	3[ 9.5 , 2.5 ] - DEPOT
+Maxload: 9.5	Capacity: 10
+
+Route12: 	2[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route13: 	13[ 2 , 0 ] - 8[ 7 , 5 ] - DEPOT
+Maxload: 9	Capacity: 10
+
+Route14: 	19[ 10 , 2.5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route15: 	6[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route16: 	7[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route17: 	8[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route18: 	9[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route19: 	9[ 8 , 5 ] - DEPOT
+Maxload: 8	Capacity: 10
+
+Route20: 	10[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route21: 	11[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route22: 	12[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route23: 	13[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route24: 	14[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route25: 	14[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route26: 	15[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route27: 	15[ 10 , 2.5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route28: 	16[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route29: 	16[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route30: 	17[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route31: 	17[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route32: 	18[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route33: 	19[ 10 , 2.5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route34: 	15[ 4 , 2.5 ] - 6[ 5 , 5 ] - DEPOT
+Maxload: 9	Capacity: 10
+
+Route35: 	1[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route36: 	4[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route37: 	5[ 10 , 5 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+POPULATION: 
+1: 830 37 0.051
+2: 840 37 0.003
+3: 820 37 0.216
+4: 840 37 0.005
+5: 840 37 0.006
+
+Mycost: 820	Benchmark: 850
