@@ -26,7 +26,7 @@ There are five parameters that need to be filled in, and I provide the meaning o
 
 ---
 
-## **Folder **
+## **Folder**
 
 .data/  folder stores all the results.
 
